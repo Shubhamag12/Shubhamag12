@@ -7,6 +7,8 @@
 - 💼 &nbsp; Currently working as a Computer Vision Intern at SensoVision Systems.
 - 🌱 &nbsp; Learning more about Web Development, Computer Vision and Artificial Intelligence.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubhamag12&label=Profile%20views&color=0e75b6&style=flat" alt="Shubhamag12" /> </p>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -31,11 +33,7 @@
 
 <br/>
 
-<a href="https://github.com/Shubhamag12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubhamag12&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamag12&theme=buefy&layout=compact" /> -->
-</a>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shubhamag12&show_icons=true&locale=en&theme=midnight-purple" alt="My Github Stats" width="400"/> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Shubhamag12&theme=midnight-purple" alt="My Github Streak" width="400"/></p>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
