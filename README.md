@@ -41,5 +41,5 @@
 <p align="center">
 <a href="https://codedefy.pythonanywhere.com/about.html"><img alt="Website" src="https://img.shields.io/badge/Website-CodeDefy-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/shubham-agarwal-63b978179/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shubham%20Agarwal%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:shubhamagarwalsa41@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-shubhamagarwalsa41@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:sagarwal@platform9.com"><img alt="Email" src="https://img.shields.io/badge/Email-sagarwal@platform9.com-blue?style=flat-square&logo=gmail"></a>
 </p>
