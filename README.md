@@ -4,8 +4,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Engineering at National Institute of Technology, Sikkim.
-- 💼 &nbsp; Currently working as a Computer Vision Intern at SensoVision Systems.
-- 🌱 &nbsp; Learning more about Web Development, Computer Vision and Artificial Intelligence.
+- 💼 &nbsp; Currently working as a Software Developer Intern @ Platform9 Systems.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shubhamag12&label=Profile%20views&color=0e75b6&style=flat" alt="Shubhamag12" /> </p>
 
